@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Diyar from Digiplace, a fullstack PHP developper
+- 👀 I’m interested in PHP and JS technologies
+- 🌱 I’m currently learning React / NextJS
+- 📫 How to reach me : Email me, diyar (at) digiplace (dot) fr 
+- 😄 Pronouns: He/Him
